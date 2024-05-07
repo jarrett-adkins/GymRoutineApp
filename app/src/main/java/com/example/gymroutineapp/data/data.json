@@ -1,0 +1,29 @@
+{
+  "workouts" : [
+    {
+      "amount" : "(3sets/10reps)",
+      "exercises" : [
+        "assisted pull ups 125 lbs",
+        "football bar bench press 40 lbs",
+        "db suitcase squats 100 lb db",
+        "standing barbell overhead shoulder press 85 lbs",
+        "single leg ext 85 lbs",
+        "single machine 140 lbs",
+        "ab machine 15 reps 130 lbs",
+        "cable curl finisher 12-4-12 - John from Anytime Fitness"
+      ]
+    }, {
+      "amount" : "(3sets/10reps)",
+      "exercises" : [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ]
+    }
+  ]
+}
